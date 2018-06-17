@@ -42,3 +42,7 @@ function getWeather(){
             console.log(err)
         });
 }
+
+// API: https://fixer.io/quickstart
+// ApiKey: 480455533ea489b3297fd1486d5a70c2
+// full: http://data.fixer.io/api/latest?access_key=480455533ea489b3297fd1486d5a70c2
